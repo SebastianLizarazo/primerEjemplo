@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Mi Primera Pagina</title>
 </head>
-<body style="background: gray">
+<body style="background: CadetBlue">
 <h1>Principal</h1>
 <div>
     <ol>
