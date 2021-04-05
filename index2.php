@@ -11,7 +11,7 @@
 <h1>Acerca de</h1>
 <div>
     <ul>
-        <li><a href="index.php">Principal</a> </li>
+        <li><a href="index.php">Principaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal</a> </li>
         <li><a href="index2.php"><strong>Acerca de</strong></a></li>
         <li><a href="index3.php">Contactenos</a></li>
     </ul>
